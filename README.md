@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">i'm batista.
 
-<!--
-**arthur2012-dot/arthur2012-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just a nerd in a room with an ESP32.
 
-Here are some ideas to get you started:
+brazilian developer in progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="images/manga.png" width="220" alt="Manga illustration"></div>---
+
+what i'm working on
+
+- ESP32 projects and embedded systems
+- JavaScript and small software experiments
+- AI and automation
+
+tools i use
+
+"ESP32" "JavaScript" "GitHub" "AI"
+
+<div align="center"><img src="images/minecraft.png" width="48%" alt="Minecraft forest">
+<img src="images/minecraft-2.png" width="48%" alt="Snowy Minecraft forest"></div>
