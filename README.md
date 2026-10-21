@@ -1,20 +1,12 @@
-<div align="center">i'm batista.
+I'm Batista
 
-just a nerd in a room with an ESP32.
+Just a nerd in a room with an ESP32.
 
-brazilian developer in progress.
+Brazilian developer in progress.
 
-<img src="images/manga.png" width="220" alt="Manga illustration"></div>---
 
-what i'm working on
+I like to play basketball and program AI robots that automate my room. 
+<img src="./images/manga.png" width="220" alt="Manga">
 
-- ESP32 projects and embedded systems
-- JavaScript and small software experiments
-- AI and automation
+Bruce Firmware member just for fun
 
-tools i use
-
-"ESP32" "JavaScript" "GitHub" "AI"
-
-<div align="center"><img src="images/minecraft.png" width="48%" alt="Minecraft forest">
-<img src="images/minecraft-2.png" width="48%" alt="Snowy Minecraft forest"></div>
