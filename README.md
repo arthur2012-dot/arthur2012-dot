@@ -1,12 +1,19 @@
-I'm Batista
 
-Just a nerd in a room with an ESP32.
+<div align="center">
 
-Brazilian developer in progress.
+# i'm batista.
 
+just a nerd in a room with an ESP32.
 
-I like to play basketball and program AI robots that automate my room. 
-https://pin.it/5nXS0YfeO
+brazilian developer in progress.
 
-Bruce Firmware member just for fun
+<img src="./manga.png" width="220" alt="Manga">
 
+</div>
+
+---
+
+<div align="center">
+<img src="./minecraft.png" width="48%" alt="Minecraft forest">
+<img src="./minecraft-2.png" width="48%" alt="Snowy Minecraft forest">
+</div>
