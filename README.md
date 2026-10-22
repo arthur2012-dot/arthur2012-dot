@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/rickandmorty/images/1/19/Rick_Sanchez.png/revision/latest?cb=20170327161437" width="70%" alt="Rick Sanchez">
+<img src="https://static.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20201019155143" width="50%" alt="Rick Sanchez">
 
 <br>
 
