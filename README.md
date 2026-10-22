@@ -29,18 +29,6 @@
 
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20201019155143" width="50%" alt="Rick Sanchez">
-
-<br>
-
-*thinking about the next experiment...*
-
-</div>
-
----
-
-<div align="center">
-
 ### stack I actually touch
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
