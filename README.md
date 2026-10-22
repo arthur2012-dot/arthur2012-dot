@@ -9,22 +9,7 @@
 <br>
 
 **"The only one who can beat me is me."**  
-— Aomine Daiki (and every real coder at 3 a.m.)
-
-</div>
-
----
-
-<div align="center">
-
-### currently cooking
-
-```text
-→ ESP32-CYD custom firmware & IR/RF experiments
-→ Minecraft Bedrock addons & world recreations
-→ Lightweight Android apps + JS tools
-→ Aesthetic systems that just feel right
-```
+— Aomine Daiki
 
 </div>
 
@@ -57,20 +42,6 @@ building things that shouldn't work… until they do.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-
-### about the human
-
-- 🇧🇷 Brazilian, 8th grade, already deeper into hardware than most adults
-- Obsessed with **ESP32-CYD**, custom firmware, IR blasters and making tiny screens look expensive
-- Minecraft Bedrock modding, addons and full world recreations
-- Aesthetic is not optional — if it doesn't look clean, it doesn't ship
-- Building in silence, shipping when it feels right
 
 </div>
 
