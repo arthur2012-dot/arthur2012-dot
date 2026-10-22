@@ -1,14 +1,14 @@
 <div align="center">
 
-# こんにちは, I'm **Arthur**
+# こんにちは, I'm **batista**
 
-### vibe coder • brazilian • building in the dark
+### vibe coder 
 
 <img src="https://images5.alphacoders.com/702/thumb-1920-702787.png" width="100%" alt="Aomine Daiki — The only one who can beat me is me">
 
 <br>
 
-**"The only one who can beat me is me."**  
+**"only one who can beat me is me."**  
 — Aomine Daiki
 
 </div>
@@ -21,8 +21,7 @@
 
 <br>
 
-**Just a nerd in a room with an ESP32,**  
-building things that shouldn't work… until they do.
+**Just a nerd in a room with an ESP32.**
 
 </div>
 
@@ -59,6 +58,6 @@ building things that shouldn't work… until they do.
 
 <div align="center">
 
-*still early. still building. still unbeatable by anyone but myself.*
+
 
 </div>
