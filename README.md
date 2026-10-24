@@ -33,7 +33,7 @@
 
 <br>
 
-**"Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV."**
+**"Science, man. Always science."**
 
 </div>
 
