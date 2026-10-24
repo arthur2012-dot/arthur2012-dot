@@ -29,6 +29,19 @@
 
 <div align="center">
 
+<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792848019/arthur-profile/rick-morty-polaroid.jpg" width="60%" alt="Rick and Morty Polaroid — classic chaos">
+
+<br>
+
+**Wubba lubba dub dub.**  
+*Pinned on the board of absolute chaos.*
+
+</div>
+
+---
+
+<div align="center">
+
 ### stack I actually touch
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
