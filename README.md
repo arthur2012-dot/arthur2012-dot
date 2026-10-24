@@ -29,9 +29,12 @@
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792848019/arthur-profile/rick-morty-polaroid.jpg" width="60%" alt="Rick and Morty Polaroid — classic chaos">
+<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792848195/arthur-profile/rick-sanchez-lab.jpg" width="70%" alt="Rick Sanchez thinking in the garage lab">
 
 <br>
+
+**Contemplating the next interdimensional experiment.**  
+*Or just judging the universe. Again.*
 
 </div>
 
