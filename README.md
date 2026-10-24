@@ -33,9 +33,6 @@
 
 <br>
 
-**Wubba lubba dub dub.**  
-*Pinned on the board of absolute chaos.*
-
 </div>
 
 ---
