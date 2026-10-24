@@ -33,8 +33,7 @@
 
 <br>
 
-**Contemplating the next interdimensional experiment.**  
-*Or just judging the universe. Again.*
+**"Blondes, man, always blondes."**
 
 </div>
 
