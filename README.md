@@ -29,13 +29,23 @@
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792848195/arthur-profile/rick-sanchez-lab.jpg" width="48%" alt="Rick Sanchez thinking in the garage lab">
-&nbsp;&nbsp;
-<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792849070/arthur-profile/morty-existential.jpg" width="40%" alt="Morty looking into the void">
+<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792848195/arthur-profile/rick-sanchez-lab.jpg" width="70%" alt="Rick Sanchez thinking in the garage lab">
 
-<br><br>
+<br>
 
 **"Science, man. Always science."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792849070/arthur-profile/morty-existential.jpg" width="65%" alt="Morty looking into the void">
+
+<br>
+
+**"Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV."**
 
 </div>
 
