@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792849070/arthur-profile/morty-existential.jpg" width="65%" alt="Morty looking into the void">
+<img src="https://res.cloudinary.com/z2seizhf/image/upload/v1792848195/arthur-profile/rick-sanchez-lab.jpg" width="70%" alt="Rick Sanchez thinking in the garage lab">
 
 <br>
 
